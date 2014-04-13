@@ -5,13 +5,13 @@ By Matt Arnold
 
 Copyright (C) 2012-2014 Matt Arnold
 
-See COPYING file for licesence informatin
+See COPYING file for licensee information
 
-  An inital attempt at a full POSIX compliant filesystem built on a NoSQL database. Note this isn't another 
-MongoDB FUSEmount project. I just borrowed GridFS datastructures for the first draft, future versions will
-replace these with an INode, and journaling infesturucture of my own design. Based on Spanning Trees.
-I'm not sure when I'll make it back to this resarch but, eventually the plan is to have an In kernel NoSQL 
-DB, and build the FS on that. But I'm publising the prototype now, for reasons to complex to get into here.
+  An initial attempt at a full POSIX compliant system built on a NoSQL database. Note this isn't another 
+MongoDB FUSE-mount project. I just borrowed GridFS data structures for the first draft, future versions will
+replace these with an INode, and journaling infrastructure of my own design. Based on Spanning Trees.
+I'm not sure when I'll make it back to this research but, eventually the plan is to have an In kernel NoSQL 
+DB, and build the FS on that. But I'm publishing the prototype now, for reasons to complex to get into here.
 Do Not use this in production, your disk will be eaten within one hour or less.
 
 

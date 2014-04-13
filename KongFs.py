@@ -5,7 +5,9 @@
 ## Backend. 
 ## Matt Arnold for SUNYIT CS350 
 ## Start-Date: 9/1/2012
-## Recovered from Backup on 12/3//12
+## Recovered from Backup on 12/3/12
+## Copyright (C) 2012-2014 Matt Arnold
+## Licensed under the Academic Free License version 3.0
 
 from stat import *
 from errno import *
